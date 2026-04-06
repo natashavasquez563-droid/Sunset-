@@ -1,11 +1,15 @@
-# Build and Release Folders
+// actionScriptProperties
 bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
 
 # Other files and folders
-.settings/
+//  scence.js
+
+
+const scence = {
+}
 
 # Executables
 *.swf
